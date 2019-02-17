@@ -1,4 +1,5 @@
-# node-express-mysql
+# node-express-mysql-example
+
 this is an application tried to connect mysql with express
 
 Create a db in mysql server and run test_table.sql 

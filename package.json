@@ -1,0 +1,18 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "this is an rnd application tried to connect mysql with express",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ranula",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "nodeman": "^1.1.2"
+  }
+}
